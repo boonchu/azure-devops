@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from click.testing import CliRunner
 from hello import hello
 
